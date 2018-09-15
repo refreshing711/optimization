@@ -1,0 +1,106 @@
+@import '@/lib/reset.scss';
+
+html,body, #root, .container{
+	@include rect(100%,100%)
+}
+
+.main{
+	.content{
+		.avatar{
+			@include rect(100%, 2.06rem);
+			@include box-sizing()
+			@include padding(1.05rem 0 0 0.2rem);
+			background: url('https://file.sdyxmall.com/h5/v1/public/app/img/bg.71ef26b.png') no-repeat;
+			background-size:cover;
+			@include box-sizing(border-box);
+			a{
+				@include rect(100%,100%);
+				img{
+					@include rect(0.65rem,0.65rem);
+					@include border(1px #333 solid 50%);
+					border: 1px solid #000;
+					@include border-radius(50%);
+				}
+				.userID{
+					@include text-color(#000);
+					@include margin(0 0 0 0.2rem);
+				}
+			}
+		}
+		.order{
+			@include rect(100%, 0.89rem);
+			@include background-color(#fff);
+			@include margin(0 0 0.1rem 0);
+			ul{
+				@include rect(100%,100%);
+				@include flexbox();
+				li{
+					@include flex();
+					@include rect(auto, 100%)
+					@include flexbox();
+					@include flex-direction();
+					@include justify-content();
+					@include align-items();
+					a{
+						@include rect(100%,100%);
+						display: block;
+						text-align: center;
+						@include text-color(#666);
+						i{
+							@include font-size(0.32rem);
+							@include margin(0.1rem auto)
+							//@include text-align();
+							@include rect(0.32rem,0.32rem);
+							display: block;
+						}
+					}
+				}
+			}
+		}
+		.set{
+			@include rect(100%,auto);
+			ul{
+			
+				@include rect(100%,auto);
+				li{
+					@include rect(100%, 0.49rem);
+					@include padding(0 0.15rem);
+					border-bottom: 1px lightgray solid;
+					@include background-color(#fff);
+					a{
+						display: block;
+						@include rect(100%,100%);
+						@include text-color(#000);
+						//@include padding(0.1rem 0 0 0)
+						//line-height:0.49rem;
+						@include line-height(0.49rem);
+						i{
+							@include font-size(0.26rem);
+							@include text-color(rgb(229, 104, 108));
+							vertical-align: middle;
+						}
+						span, b{
+							@include font-size(0.15rem);
+							vertical-align: middle;
+						}
+						span{
+							@include margin(0 0 0 0.15rem);
+						}
+						b{
+							float: right;
+							@include font-size(0.2rem);
+							@include margin(0.1rem 0 0 0);
+						}
+					}
+				}
+				li:nth-of-type(2n){
+					border-bottom: 0;
+					@include margin(0 0 0.1rem 0);
+				}
+			}
+		}
+		
+		
+		
+	}
+}

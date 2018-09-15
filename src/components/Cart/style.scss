@@ -1,0 +1,44 @@
+@import '@/lib/reset.scss';
+
+html,body, #root, .container{
+	@include rect(100%,100%)
+}
+
+.main{
+	header{
+		.left{
+			font-size: 0.3rem;
+			.left-link{
+				@include rect(0.48rem,100%);
+				display: inline-block;
+				font-size: 0.3rem;
+				@include text-color(#000);
+				i{
+					margin-left: 0.1rem;
+				}
+			}
+		}
+	}
+	.content{
+		.cart-img{
+			@include rect(1.4rem,0.95rem);
+			position: absolute;
+			left: 0;
+			top:0;
+			right:0;
+			bottom: 1.2rem;
+			@include margin(auto);
+			@include text-color(#666);
+			i{
+				@include rect(0.95rem,0.95rem);
+				@include font-size(0.95rem);
+				@include margin(0 0 0 0.1rem);
+			}
+			p{
+				@include margin(0.1rem 0 0 0 );
+			}
+		}
+	}
+	
+}
+	

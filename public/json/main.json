@@ -1,0 +1,39 @@
+[
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/38a7ece490138cac22f1aec427914a40.jpg",
+    "masterTitle" : "爆款洗护",
+    "slaveTitle" :"清仓单件包邮",
+    "id":1
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/957aea15e808acb00cbc594ca030b1b9.jpg",
+    "masterTitle" : "科技制冷",
+    "slaveTitle" :"清凉一夏",
+    "id":2
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/90954a7e091a921a600fcf08aa3f2e79.jpg",
+    "masterTitle" : "好毛巾",
+    "slaveTitle" :"擦去汗与泪",
+    "id":3
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/bd187c8a3308630ffa1a1b868af82b2a.jpg",
+    "masterTitle" : "幸福妈咪",
+    "slaveTitle" :"健康厨房",
+    "id":4
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/45a8bc48047333466fe55f069a4a9106.jpg",
+    "masterTitle" : "百果齐香",
+    "slaveTitle" :"甜上心头",
+    "id":5
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/b9912b01b107a49ade26a45314df65c3.jpg",
+    "masterTitle" : "美食每刻",
+    "slaveTitle" :"香脆不贵",
+    "id":6
+  }
+
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "defaultSkuId": 4456,
+    "masterName":"多喜爱/美眠康 云锦绒毯",
+    "imgUrl":"https://mall.s.maizuo.com/80ee9de6b1d54975d12e13912b6ada54.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"柔软细腻 一毯多用"
+  },
+  {
+    "defaultSkuId":
+    4444,
+    "masterName":"多喜爱/美眠康 儿童暖绒云毯",
+    "imgUrl":"https://mall.s.maizuo.com/bbd0886b7aee83502b01c95b38d68d99.jpg",
+    "marketPrice":0,
+    "price":27990,
+    "salesCount":837,
+    "skuId":211,
+    "slaveName":"柔软细腻 舒适透气"
+  },
+  {
+    "defaultSkuId": 4468,
+    "masterName":"多喜爱/美眠康 轻语优雅全棉春秋四件套",
+    "imgUrl":"https://mall.s.maizuo.com/8af4a221fab5d455f6ad4d5a205266fa.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":4500,
+    "skuId":4898,
+    "slaveName":"100%全棉高支高密斜纹 吸湿透气无刺激 时尚新潮元素"
+  },
+  {
+    "defaultSkuId": 4466,
+    "masterName":"多喜爱/美眠康 淡舞轻扬花卉春秋四件套",
+    "imgUrl":"https://mall.s.maizuo.com/74d808305683702e5b500df15323e2cc.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"源自时尚床品设计 精梳全棉斜纹 手感细腻轻柔"
+  },
+  {
+    "defaultSkuId": 4464,
+    "masterName":"多喜爱/美眠康 甜甜圈缤纷春秋四件套",
+    "imgUrl":"https://mall.s.maizuo.com/aeb685c88ec3f8446422ff74d3fd6b70.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"100%全棉高支高密 精选优质喷气面料 源自行业设计师之手"
+  },
+  {
+    "defaultSkuId": 4470,
+    "masterName":"多喜爱/美眠康 欧式提花春秋四件套",
+    "imgUrl":"https://mall.s.maizuo.com/71adb639fc9295659126b8bc7083cf97.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"100%全棉吸湿透气 尊贵皇家花型设计 环保活性印染"
+  },
+  {
+    "defaultSkuId": 4474,
+    "masterName":"多喜爱/美眠康 赫本花园浪漫丝滑春秋四件套",
+    "imgUrl":"https://mall.s.maizuo.com/f12aa49e3b4de9f8cbd40198f4e523f4.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"优质全棉面料 吸湿透气性强 触感柔软舒适"
+  },
+  {
+    "defaultSkuId": 4476,
+    "masterName":"多喜爱/美眠康 天丝棉清凉软垫三件套",
+    "imgUrl":"https://mall.s.maizuo.com/c2b30db07b2ed06c5d27a61b66e785d2.jpg",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"爽滑舒适 清凉一夏"
+  },
+  {
+    "defaultSkuId": 4814,
+    "masterName":"经典简约条纹四件套",
+    "imgUrl":"https://mall.s.maizuo.com/f02debb2c08cb4be714e5e1065b67261.png",
+    "marketPrice":23800,
+    "price":10990,
+    "salesCount":144,
+    "skuId":6020,
+    "slaveName":"斜纹织造 活性印染 简约时尚"
+  }
+
+]
+

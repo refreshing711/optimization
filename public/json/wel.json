@@ -1,0 +1,57 @@
+[
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/758cbd65bab56c65604b59b738de724e.jpg",
+    "masterTitle" : "精选图书",
+    "slaveTitle" :"读书使人快乐",
+    "id":1
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/0db286586dd1202a7393af51a111fc49.jpg",
+    "masterTitle" : "刊物订阅",
+    "slaveTitle" :"到老都是文青",
+    "id":2
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/938cadf82fded879906b1e7f9f266603.jpg",
+    "masterTitle" : "知识超市",
+    "slaveTitle" :"碎片化学习",
+    "id":3
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/bd6c58ba5edfc9cb12ed5201c4a58903.jpg",
+    "masterTitle" : "下午茶",
+    "slaveTitle" :"午后充电时刻",
+    "id":4
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/7aaf741203760a711606070f1cc21b5e.jpg",
+    "masterTitle" : "新鲜花束",
+    "slaveTitle" :"点缀好心情",
+    "id":5
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/f01d8c9cd7b5e096536c244160683980.jpg",
+    "masterTitle" : "洗衣服务",
+    "slaveTitle" :"上门收送衣",
+    "id":6
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/3a9fc6c8e59622e2d0b2a3d07a94437d.jpg",
+    "masterTitle" : "洗车保养",
+    "slaveTitle" :"如新车般亮洁",
+    "id":7
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/8cd3eee854934e7949462492af8c19ac.jpg",
+    "masterTitle" : "轻食简餐",
+    "slaveTitle" :"网红茶饮入驻",
+    "id":8
+  },
+  {
+    "imgUrl" :"https://mall.s.maizuo.com/d121fb49f2a37c25df047d8fa411c085.jpg",
+    "masterTitle" : "在线充值",
+    "slaveTitle" :"油卡 话费",
+    "id":9
+  }
+
+]

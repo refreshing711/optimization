@@ -1,0 +1,74 @@
+@import '@/lib/reset.scss';
+
+html,body, #root, .container{
+	@include rect(100%,100%)
+}
+
+.content{
+	
+	.fa-icon{
+		@include rect(0.3rem,0.3rem);
+		display:block;
+		text-align: center;
+		border-radius: 0.15rem;
+		padding-top:0.02rem;
+		@include background-color(#fff);
+		font-size: 0.25rem;
+		position: fixed;
+		top:0.1rem;
+		left:0.1rem;
+	}
+	.item-info{
+		@include padding(0.15rem);
+		p{
+			@include margin(0 0 0.1rem 0);
+			@include font-size(0.13rem);
+			
+		}
+		h4{
+			@include margin(0 0 0.1rem 0);
+			@include font-size(0.15rem);
+			font-weight:normal;
+			@include text-color(#000);
+		}
+	}
+	.price{
+		@include text-color(#c03131);
+		@include font-size(0.2rem);
+	}
+	.through{
+		text-decoration: line-through;
+		@include text-color(#666);
+		@include margin(0 0 0 0.1rem);
+	}
+	
+}
+footer{
+	@include rect(100%, 0.42rem);
+	@include background-color(#fff);
+	@include flexbox();
+	.i-cart,.cart-buy, .cart-add{
+		@include flexbox();
+		@include flex-direction(column);
+		@include justify-content();
+		@include align-items();	
+	}
+	.i-cart{
+		@include rect(20%, 100%);
+		display:block;
+		@include font-size(0.3rem);
+		@include text-align();
+		@include padding(0.1rem 0 0 0);
+		border-right:1px solid #999;
+	}
+	.cart-buy{
+		@include rect(40%, 100%);
+		@include font-size(0.16rem);
+	}
+	.cart-add{
+		@include rect(40%, 100%);
+		@include font-size(0.16rem);
+		@include background-color(#c03131);
+		@include text-color(#fff);
+	}
+}

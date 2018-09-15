@@ -1,0 +1,44 @@
+[
+  {
+    "id":1,
+    "imgUrl":"https://mall.s.maizuo.com/c6966f6a8d3eae3bc0e236aee08b84bc.jpg",
+    "name":"9.9拼团"
+  },
+  {
+    "id":2,
+    "imgUrl":"https://mall.s.maizuo.com/21760cfcf42efbdb7dd09159921002fb.jpg",
+    "name":"居家"
+  },
+  {
+    "id":3,
+    "imgUrl":"https://mall.s.maizuo.com/cbfe5aafcb9e6c2198064f53b55d1729.jpg",
+    "name":"生鲜"
+  },
+  {
+    "id":4,
+    "imgUrl":"https://mall.s.maizuo.com/84fc64e5784540474b7427e2e85f4526.jpg",
+    "name":"食品"
+  },
+  {
+    "id":5,
+    "imgUrl":"https://mall.s.maizuo.com/dfafbc3e5f4a510fdbba396385e36d10.jpg",
+    "name":"餐厨"
+  },
+
+  {
+    "id":7,
+    "imgUrl":"https://mall.s.maizuo.com/019be663c67b5ea50849573273e69b68.jpg",
+    "name":"洗护"
+  },
+  {
+    "id":1,
+    "imgUrl":"https://mall.s.maizuo.com/94f2a70c74010dee0bd4f37e243e7b09.jpg",
+    "name":"跨境"
+  },
+  {
+    "id":8,
+    "imgUrl":"https://mall.s.maizuo.com/5d208b53db490f702b616ece6e612c80.jpg",
+    "name":"小家电"
+  }
+
+]

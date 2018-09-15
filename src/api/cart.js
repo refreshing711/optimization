@@ -1,0 +1,1 @@
+import fetchJsonp from 'fetch-jsonp'

@@ -1,0 +1,40 @@
+[
+  {
+	"productId": 1,
+    "masterName":"【基地包邮】增城桂味荔枝 4.5斤装",
+    "maxPrice":8990,
+    "salesCount":1089,
+		"img" : {
+			"https://mall.s.maizuo.com/f010496e3eddbb982c2bd78a626ec308.png",
+		},
+    "slaveName":"千年栽种历史 果肉饱满脆嫩多汁 专业冷链保鲜"
+  },
+  {
+	    "productId": 2,
+	    "masterName":"【包邮】「苏打自营」粤式名点 八珍玲珑鸳鸯粽",
+	    "maxPrice":8880,
+	    "salesCount":4623,
+	    "slaveName":"百年匠心传承 潮汕咸甜“双烹”风味 传统用料食材"
+  },
+  {
+	    "productId": 3,
+	    "imgUrl" :"https://mall.s.maizuo.com/b0f0f01e160587942279f5a0df1ec656.png",
+	    "price":10990,
+	    "slaveName" :"经典色彩 精巧便携 高效防晒",
+	    "masterName": "【新品】蕉下 AIR高效防晒晴雨伞"
+  },
+  {
+	    "productId": 4,
+	    "imgUrl" :"https://mall.s.maizuo.com/28932cadf010d203de70b3a3e337e5a3.png",
+	    "price": 9900,
+	    "slaveName" :"各大网红强烈推荐，轻薄清爽不油腻，温和保湿防水防汗，给你全天防护",
+	    "masterName": "【抖音热门款】 UH 水光润珠隔离防晒喷雾 150ml"
+  },
+  {
+	    "productId": 5,
+	    "imgUrl" :"https://mall.s.maizuo.com/338e6d64401c222b88a87ff8a3bfaf81.png",
+	    "price":31400,
+	    "slaveName" :"台立两用 静音高颜值 可左右摇头上下调节",
+	    "masterName": "美的静音机械落地扇"
+  }
+]

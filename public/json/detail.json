@@ -1,0 +1,264 @@
+[
+{
+    "defaultSkuId":216808,
+    "isVirtualProduct":0,
+    "masterName":"【特惠】ECX 复古型全自动榨汁机",
+    "maxMarketPrice":23900,
+    "maxPrice":19900,
+    "minMarketPrice":23900,
+    "minPrice":19900,
+    "options":[
+        {
+            "item":[
+                "白色",
+                "红色",
+                "粉色"
+            ],
+            "name":"颜色",
+            "skuOptionId":6
+        }
+    ],
+    "productId":214331,
+    "purchaseType":0,
+    "salesCount":1427,
+    "skuList":[
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/fc7277ebeb1dcfb8941cf9349aa4f92f.png",
+                "https://mall.s.maizuo.com/e00d3349d10be4eb0c01194c73a98d2f.jpg",
+                "https://mall.s.maizuo.com/4b426d27bd3c3011b6050d7f97a5b723.jpg",
+                "https://mall.s.maizuo.com/b80cc5150ab181ceae98c8e2e758dbf0.jpg",
+                "https://mall.s.maizuo.com/887a1816941cb6a9191494f0cf6d86ad.jpg"
+            ],
+            "inventory":971,
+            "marketPrice":23900,
+            "masterName":"白色 ",
+            "options":[
+                {
+                    "optionId":6,
+                    "value":"白色"
+                }
+            ],
+            "price":19900,
+            "salesCount":261,
+            "skuId":216808,
+            "slaveName":""
+        },
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/b11309d444b3663f6d8a3927abcae0c8.jpg"
+            ],
+            "inventory":990,
+            "marketPrice":23900,
+            "masterName":"红色 ",
+            "options":[
+                {
+                    "optionId":6,
+                    "value":"红色"
+                }
+            ],
+            "price":19900,
+            "salesCount":90,
+            "skuId":216809,
+            "slaveName":""
+        },
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/ebf1d9531be74c0682485ef5c7c78009.jpg"
+            ],
+            "inventory":985,
+            "marketPrice":23900,
+            "masterName":"粉色 ",
+            "options":[
+                {
+                    "optionId":6,
+                    "value":"粉色"
+                }
+            ],
+            "price":19900,
+            "salesCount":144,
+            "skuId":216810,
+            "slaveName":""
+        }
+    ],
+    "slaveName":"摇杆式开关复古高颜值，双杯双盖随心换",
+    "supplierId":143
+},
+{
+        "defaultSkuId":2570276,
+        "isVirtualProduct":0,
+        "masterName":"【基地直供】蒙阴金辉黄桃 12枚装 （约4.5斤）",
+        "maxMarketPrice":0,
+        "maxPrice":5590,
+        "minMarketPrice":0,
+        "minPrice":5590,
+        "options":[
+
+        ],
+        "productId":2567659,
+        "purchaseType":0,
+        "salesCount":1277,
+        "skuList":[
+            {
+                "imgUrls":[
+                    "https://mall.s.maizuo.com/e2dbebcf50ecf9c78fbc4b68f8851947.png",
+                    "https://mall.s.maizuo.com/ae1cb75f3f7063c8e0872acb8a16820a.jpg",
+                    "https://mall.s.maizuo.com/352c3bcc88f48af6c220a1267f2b6d1d.jpg",
+                    "https://mall.s.maizuo.com/be207221668f489fe1e4411fdb8d82f6.jpg"
+                ],
+                "inventory":2952,
+                "marketPrice":0,
+                "masterName":"",
+                "options":[
+
+                ],
+                "price":5590,
+                "salesCount":1280,
+                "skuId":2570276,
+                "slaveName":""
+            }
+        ],
+        "slaveName":"源自“中国蜜桃之都” 肉厚甜嫩多汁 自有基地现采",
+        "supplierId":168
+},
+{
+    "defaultSkuId":10798,
+    "isVirtualProduct":0,
+    "masterName":"酥松金丝肉松饼 2kg",
+    "maxMarketPrice":0,
+    "maxPrice":4080,
+    "minMarketPrice":0,
+    "minPrice":4080,
+    "options":[
+
+    ],
+    "productId":8352,
+    "purchaseType":0,
+    "salesCount":1706,
+    "skuList":[
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/925cf4595361bbf9a8bede32e7716ace.png",
+                "https://mall.s.maizuo.com/0211ea827706e43bce054a97612b9a4f.jpg",
+                "https://mall.s.maizuo.com/78938e95cf6f0f23c697e3248b8c28c9.jpg"
+            ],
+            "inventory":819,
+            "marketPrice":0,
+            "masterName":"",
+            "options":[
+
+            ],
+            "price":4080,
+            "salesCount":1706,
+            "skuId":10798,
+            "slaveName":""
+        }
+    ],
+    "slaveName":"匠心烘焙手艺 甄选优质用料 满满松软醇香",
+    "supplierId":160
+},
+{
+    "defaultSkuId":967613,
+    "isVirtualProduct":0,
+    "masterName":"CC·KU木纹不锈钢真空保温杯 350ml/480ml",
+    "maxMarketPrice":0,
+    "maxPrice":8900,
+    "minMarketPrice":0,
+    "minPrice":7900,
+    "options":[
+        {
+            "item":[
+                "350毫升",
+                "480毫升"
+            ],
+            "name":"规格",
+            "skuOptionId":3
+        }
+    ],
+    "productId":965127,
+    "purchaseType":0,
+    "salesCount":269,
+    "skuList":[
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/fc0edee4a0920f77ed5851e3d7e21d9b.png",
+                "https://mall.s.maizuo.com/6c6e45d99af0c41bc13820ca1b2408ef.jpg",
+                "https://mall.s.maizuo.com/0b91aa98865058a5795d2be2824767cb.jpg",
+                "https://mall.s.maizuo.com/4ed90975a97d1658292b5cbb0722f3b2.jpg",
+                "https://mall.s.maizuo.com/839130f714423955336204eabad1e65c.png"
+            ],
+            "inventory":43,
+            "marketPrice":0,
+            "masterName":"350毫升 ",
+            "options":[
+                {
+                    "optionId":3,
+                    "value":"350毫升"
+                }
+            ],
+            "price":7900,
+            "salesCount":7,
+            "skuId":967613,
+            "slaveName":""
+        },
+        {
+            "imgUrls":[
+                "https://mall.s.maizuo.com/839130f714423955336204eabad1e65c.png"
+            ],
+            "inventory":37,
+            "marketPrice":0,
+            "masterName":"480毫升 ",
+            "options":[
+                {
+                    "optionId":3,
+                    "value":"480毫升"
+                }
+            ],
+            "price":8900,
+            "salesCount":14,
+            "skuId":967614,
+            "slaveName":""
+        }
+    ],
+    "slaveName":"304不锈钢、食品级PP、24H控热保冷",
+    "supplierId":129
+},
+{
+        "defaultSkuId":6108,
+        "isVirtualProduct":0,
+        "masterName":"【香港直邮】Dr.Ci.Labo 城野医生毛孔收敛水 100ml",
+        "maxMarketPrice":0,
+        "maxPrice":10900,
+        "minMarketPrice":0,
+        "minPrice":10900,
+        "options":[
+
+        ],
+        "productId":4017,
+        "purchaseType":0,
+        "salesCount":3573,
+        "skuList":[
+            {
+                "imgUrls":[
+                    "https://mall.s.maizuo.com/5a0a3636e7ef8ab478fe4cb25908e46c.png",
+                    "https://mall.s.maizuo.com/814ffe8bc5d7111b2ee4f9dc6c35e4c9.jpg",
+                    "https://mall.s.maizuo.com/14e7abac0e177c7676c79d446d89cf8f.jpg",
+                    "https://mall.s.maizuo.com/3f6cf20b62313ed7dd9c4109adfb445f.jpg",
+                    "https://mall.s.maizuo.com/0d48519ea5fb549eb8fcf5cce8a0a5a4.jpg"
+                ],
+                "inventory":606,
+                "marketPrice":0,
+                "masterName":"",
+                "options":[
+
+                ],
+                "price":10900,
+                "salesCount":3573,
+                "skuId":6108,
+                "slaveName":""
+            }
+        ],
+        "slaveName":"日本原装进口 收敛毛孔 对策黑头 清透保湿",
+        "supplierId":27
+    }
+]

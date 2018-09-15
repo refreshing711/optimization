@@ -1,0 +1,43 @@
+[
+  {
+    "type":"lizhi",
+    "productId": 1,
+    "imgUrl" :"https://mall.s.maizuo.com/b19ad3bb57bfe1229232ebe186e8dab6.png",
+    "price":11990,
+    "slaveName" :"享誉“水果中的红宝石” 脆嫩一口爆浆 果肉肥厚",
+    "masterName": "【基地包邮】山东先锋大樱桃 3斤装"
+  },
+  {
+    "type":"zhonzi",
+    "productId": 2,
+    "imgUrl" :"https://mall.s.maizuo.com/54999bba87f48ee164683eda508148a8.png",
+    "price":7280,
+    "slaveName" :"百年匠心传承 潮汕咸甜“双烹”风味 传统用料食材",
+    "masterName": "【包邮】「苏打自营」粤式名点 八珍玲珑鸳鸯粽"
+  },
+  {
+    "type":"yushan",
+    "productId": 3,
+    "imgUrl" :"https://mall.s.maizuo.com/b0f0f01e160587942279f5a0df1ec656.png",
+    "price":10990,
+    "slaveName" :"经典色彩 精巧便携 高效防晒",
+    "masterName": "【新品】蕉下 AIR高效防晒晴雨伞"
+  },
+  {
+    "type":"shui",
+    "productId": 4,
+    "imgUrl" :"https://mall.s.maizuo.com/28932cadf010d203de70b3a3e337e5a3.png",
+    "price": 9900,
+    "slaveName" :"各大网红强烈推荐，轻薄清爽不油腻，温和保湿防水防汗，给你全天防护",
+    "masterName": "【抖音热门款】 UH 水光润珠隔离防晒喷雾 150ml"
+  },
+  {
+    "type":"fengshan",
+    "productId": 5,
+    "imgUrl" :"https://mall.s.maizuo.com/338e6d64401c222b88a87ff8a3bfaf81.png",
+    "price":31400,
+    "slaveName" :"台立两用 静音高颜值 可左右摇头上下调节",
+    "masterName": "美的静音机械落地扇"
+  }
+
+]

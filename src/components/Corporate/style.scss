@@ -1,0 +1,29 @@
+@import '@/lib/reset.scss';
+
+html,body, #root, .container{
+	@include rect(100%,100%)
+}
+	header{
+		.left{
+			font-size: 0.3rem;
+			.left-link{
+				@include rect(0.48rem,100%);
+				display: inline-block;
+				font-size: 0.3rem;
+				@include text-color(#000);
+				i{
+					margin-left: 0.1rem;
+				}
+			}
+		}
+	}
+
+.content{
+	.nav-img{
+		@include rect(100%,1.42rem);
+	}
+	
+ .aside .aside-left li span{
+	 margin: 0;
+ }
+}
